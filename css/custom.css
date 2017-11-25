@@ -3,10 +3,23 @@
   max-height: 2.85714286em !important;
 }
 
+.logo {
+    max-height: 2.85714286em !important;
+}
+
 .sg-intro-text {
     margin-left: 30px;
 }
 
 .sg-menu-item {
     text-align: center;
+}
+
+section, footer {
+    padding-top: 3.42857143em;
+}
+
+section.space--md, footer.space--md {
+    padding-top: 6.14285714em;
+    padding-bottom: 6.14285714em;
 }
