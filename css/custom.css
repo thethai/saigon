@@ -34,3 +34,8 @@ section.space--md, footer.space--md {
     height: 100px;
     border-radius: 5px;
 }
+
+.feature-1 > a.block img {
+    width: 360px;
+    height: 266px;
+}
