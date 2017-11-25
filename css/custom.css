@@ -23,3 +23,13 @@ section.space--md, footer.space--md {
     padding-top: 6.14285714em;
     padding-bottom: 6.14285714em;
 }
+
+.product {
+    text-align: center;
+    
+}
+
+.product img {
+    width: 150px;
+    height: 100px;
+}
